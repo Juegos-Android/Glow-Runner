@@ -1,0 +1,87 @@
+# This .gitignore file is tailored for Unity 3D projects
+# Target platform: Android
+# Project type: 3D Mobile Core
+
+# =============== Unity Generated Files =====================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Exclude Asset meta files from being ignored
+!/[Aa]ssets/**/*.meta
+
+# =============== OS Specific Files =========================
+# Windows
+[Dd]esktop.ini
+[Tt]humbs.db
+ehthumbs.db
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+.Trash-*
+
+# =============== Unity Specific Cache Files ================
+# Unity Cache Directory
+/[Uu]ser[Ss]ettings/
+
+# Unity Builds
+*.apk
+*.unitypackage
+
+# Unity Editor Cache
+/Library/AssetDatabase*
+
+# =============== Logs and Temporary Files ==================
+*.log
+*.pidb
+*.suo
+*.userprefs
+*.csproj
+*.vcxproj
+*.pdb
+*.opendb
+*.swp
+*.uvproj
+*.uvopt
+*.ilk
+
+# =============== Build System Generated ====================
+*.class
+*.jar
+*.dll
+*.zip
+*.war
+*.ear
+*.apk
+*.exe
+
+# =============== Android Specific ==========================
+# Android generated local files
+.gradle/
+/.localrepo/
+/.idea/
+/build/
+/outputs/
+
+# Keystore files (Important: Do not share these keys!)
+*.keystore
+*.jks
+
+# =============== Unity Package Cache =======================
+# Prevent packages from being included
+/[Pp]ackages/com.unity.collab-proxy/
+
+# =============== Version Control ===========================
+# Ignore Unity Collaborate
+/[Cc]ollab/
+
+# Exclude sensitive data
+/GoogleServices.json
