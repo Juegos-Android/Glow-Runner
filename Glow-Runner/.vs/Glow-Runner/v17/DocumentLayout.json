@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\astuj\\Desktop\\Proyectos\\Glow-Runner\\Glow-Runner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{553B3C36-BC07-8233-5DE0-E616D5327DE8}|Assembly-CSharp.csproj|c:\\users\\astuj\\desktop\\proyectos\\glow-runner\\glow-runner\\assets\\scripts\\playermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{553B3C36-BC07-8233-5DE0-E616D5327DE8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{553B3C36-BC07-8233-5DE0-E616D5327DE8}|Assembly-CSharp.csproj|c:\\users\\astuj\\desktop\\proyectos\\glow-runner\\glow-runner\\assets\\scripts\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553B3C36-BC07-8233-5DE0-E616D5327DE8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{553B3C36-BC07-8233-5DE0-E616D5327DE8}|Assembly-CSharp.csproj|C:\\Users\\astuj\\Desktop\\Proyectos\\Glow-Runner\\Glow-Runner\\assets\\scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{553B3C36-BC07-8233-5DE0-E616D5327DE8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B3C36-BC07-8233-5DE0-E616D5327DE8}|Assembly-CSharp.csproj|C:\\Users\\astuj\\Desktop\\Proyectos\\Glow-Runner\\Glow-Runner\\assets\\scripts\\playermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553B3C36-BC07-8233-5DE0-E616D5327DE8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,15 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Section.cs",
+              "DocumentMoniker": "C:\\Users\\astuj\\Desktop\\Proyectos\\Glow-Runner\\Glow-Runner\\Assets\\Scripts\\Section.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Section.cs",
+              "ToolTip": "C:\\Users\\astuj\\Desktop\\Proyectos\\Glow-Runner\\Glow-Runner\\Assets\\Scripts\\Section.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Section.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:36:50.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PlayerManagement.cs",
               "DocumentMoniker": "C:\\Users\\astuj\\Desktop\\Proyectos\\Glow-Runner\\Glow-Runner\\Assets\\Scripts\\PlayerManagement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerManagement.cs",
               "ToolTip": "C:\\Users\\astuj\\Desktop\\Proyectos\\Glow-Runner\\Glow-Runner\\Assets\\Scripts\\PlayerManagement.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerManagement.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCAAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T02:08:23.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T02:08:23.617Z"
             },
             {
               "$type": "Document",
