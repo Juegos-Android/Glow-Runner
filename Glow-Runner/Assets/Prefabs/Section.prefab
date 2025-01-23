@@ -158,8 +158,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd078c3ddc0f1ab40a881b21e3472a13, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sectionSize: 20
   obstacles: []
-  speed: 10
+  speed: 8
 --- !u!1 &3525640201288808759
 GameObject:
   m_ObjectHideFlags: 0
